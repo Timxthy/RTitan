@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<StartUpPrograms xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Programs>
+    <Program>
+      <Path>__\nqlpd2.exe</Path>
+      <Arguments>nqlpd2.cfg /log="&lt;&lt;NQPATH&gt;&gt;\\_nq\\ds\\docs\\nQLPD2_log.txt"</Arguments>
+      <AutoStart>true</AutoStart>
+    </Program>
+    <Program>
+      <Path>I:\RedTitan\print2pc\print2pc.exe</Path>
+      <Arguments>/dnsconfig=I:\junk\RedTitanVirtualPrinter\DNS.config</Arguments>
+      <AutoStart>true</AutoStart>
+      <MinProductVersion>3.25</MinProductVersion>
+    </Program>
+  </Programs>
+</StartUpPrograms>

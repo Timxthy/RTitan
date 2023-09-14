@@ -1,0 +1,31 @@
+﻿@page
+@model CalculatorModel
+@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h1>Calculator</h1>
+
+<form method="post">
+    <!-- Input field for Argument 1 -->
+    <label for="arg1">Argument 1:</label>
+    <input type="number" name="arg1" required />
+    <br />
+
+    <!-- Input field for Argument 2 -->
+    <label for="arg2">Argument 2:</label>
+    <input type="number" name="arg2" required />
+    <br />
+
+    <!-- Submit buttons for Add and Subtract operations -->
+    <input type="submit" value="Add" name="operation" />
+    <input type="submit" value="Subtract" name="operation" />
+</form>
+
+<!-- Display the calculation result if it has a value -->
+@if (Model.Result.HasValue)
+{
+    <!-- Header for the result -->
+    <h2>Result: @Model.Result</h2>
+}
+

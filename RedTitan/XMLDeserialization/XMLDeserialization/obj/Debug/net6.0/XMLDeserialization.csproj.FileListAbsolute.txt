@@ -1,0 +1,15 @@
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/bin/Debug/net6.0/XMLDeserialization
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/bin/Debug/net6.0/XMLDeserialization.deps.json
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/bin/Debug/net6.0/XMLDeserialization.runtimeconfig.json
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/bin/Debug/net6.0/XMLDeserialization.dll
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/bin/Debug/net6.0/XMLDeserialization.pdb
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.csproj.AssemblyReference.cache
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.AssemblyInfoInputs.cache
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.AssemblyInfo.cs
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.csproj.CoreCompileInputs.cache
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.dll
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/refint/XMLDeserialization.dll
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.pdb
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/XMLDeserialization.genruntimeconfig.cache
+/Users/timxthy/Desktop/RedTitan/XMLDeserialization/XMLDeserialization/obj/Debug/net6.0/ref/XMLDeserialization.dll

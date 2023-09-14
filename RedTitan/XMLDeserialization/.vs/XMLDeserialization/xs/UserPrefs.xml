@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3C7A7C11-7CEC-4FB4-A25B-EF9C3A30D5BA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XMLDeserialization PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XMLDeserialization/Sample.xml">
+    <Files>
+      <File FileName="XMLDeserialization/Sample.xml" Line="17" Column="1" />
+      <File FileName="XMLDeserialization/Program.cs" Line="25" Column="70" />
+      <File FileName="XMLDeserialization/StartupPrograms.cs" Line="19" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XMLDeserialization" expanded="True">
+            <Node name="XMLDeserialization" expanded="True">
+              <Node name="Sample.xml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

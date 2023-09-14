@@ -1,0 +1,15 @@
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/bin/Debug/net6.0/Q3
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/bin/Debug/net6.0/Q3.deps.json
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/bin/Debug/net6.0/Q3.runtimeconfig.json
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/bin/Debug/net6.0/Q3.dll
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/bin/Debug/net6.0/Q3.pdb
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.csproj.AssemblyReference.cache
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.AssemblyInfoInputs.cache
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.AssemblyInfo.cs
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.csproj.CoreCompileInputs.cache
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.dll
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/refint/Q3.dll
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.pdb
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/Q3.genruntimeconfig.cache
+/Users/timxthy/Desktop/RedTitan/Q3/Q3/obj/Debug/net6.0/ref/Q3.dll
